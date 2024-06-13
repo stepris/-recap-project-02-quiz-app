@@ -33,6 +33,11 @@
   display: block;
 }
 
+/* 
+.hidden {
+  display: none; 
+*/
+
 .card__button-bookmark {
   position: absolute;
   right: 1rem;
